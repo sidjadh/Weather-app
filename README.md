@@ -1,3 +1,2 @@
-![Alt text](path/to/your/Output1.png)
-![Alt text](path/to/your/Output2.png)
-
+![alt text](Output1.png)
+![alt text](Output2.png)
